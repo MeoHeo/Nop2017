@@ -1,2 +1,2 @@
 DataProvider: sqlserver
-DataConnectionString: Data Source=(local)\SQLEXPRESS;Initial Catalog=Nop2017;Integrated Security=False;Persist Security Info=False;User ID=sa;Password=Pass4noe!
+DataConnectionString: Data Source=tcp:nopchicken.database.windows.net;Initial Catalog=dbNop;Integrated Security=False;Persist Security Info=False;User ID=chicken;Password=Pass4noe!

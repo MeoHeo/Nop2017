@@ -643,6 +643,8 @@
     <Content Include="Content\samples\product_ScienceAndFaith_1.zip" />
     <None Include="Properties\PublishProfiles\Nop2017 - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\Nop2017 - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\NopChicken - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\NopChicken - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\fineuploader\iframe.xss.response-4.2.2.js" />
     <Content Include="Scripts\fineuploader\jquery.fineuploader-4.2.2.js" />
