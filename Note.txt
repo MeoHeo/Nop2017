@@ -1,0 +1,16 @@
+Mew: 1, 5, 6, 
+Tuan: 2,3,4, 7, 8
+
+DB Server name: nopserver2018.database.windows.net
+Server admin login: tuanbk08
+Password: Pas...!
+
+42.119.120.166
+
+Note Deployment:
+ - Set firewall IP
+ - Existing DB cannot be use for reinstall
+ - Shouldn't publish directly from Visual Studio 
+ - Take care Settings.txt
+ - Add Nop.Admin.dll to published bin 
+ - Check "Create DB if it doesn't exist"

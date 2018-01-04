@@ -74,6 +74,10 @@
     {
         <li><a href="@Url.RouteUrl("Boards")">@T("Forum.Forums")</a></li>
     }
+    @if (true)
+    {
+        <li><a href="/news">News</a></li>
+    }
     @if (Model.DisplayContactUsMenuItem)
     {
         <li><a href="@Url.RouteUrl("ContactUs")">@T("ContactUs")</a></li>
@@ -120,6 +124,10 @@
         {
             <li><a href="@Url.RouteUrl("Boards")">@T("Forum.Forums")</a></li>
         }
+        @if (true)
+	    {
+	        <li><a href="/news">News</a></li>
+	    }
         @if (Model.DisplayContactUsMenuItem)
         {
             <li><a href="@Url.RouteUrl("ContactUs")">@T("ContactUs")</a></li>
